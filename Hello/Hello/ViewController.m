@@ -22,13 +22,14 @@
     
     NSLog(@"66666666");
     
-<<<<<<< HEAD
     NSLog(@"bbbbbbb");
     
     NSLog(@"第四次来拉");
-=======
+
     NSLog(@"ccccc");
->>>>>>> 3cce774d707e4d827d77a7ff12689f5372ba2dea
+
+    NSLog(@"cccccccccc");
+
 
 }
 
