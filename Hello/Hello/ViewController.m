@@ -18,21 +18,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    NSLog(@"lala11111222");
-    
-    NSLog(@"66666666");
-    
-    NSLog(@"bbbbbbb");
-    
-    NSLog(@"第四次来拉");
-
-    NSLog(@"ccccc");
-
-    NSLog(@"66");
-
-    NSLog(@"cccccccccc");
-    
-    NSLog(@"宝宝又来了");
     
     NSLog(@"朕在此！");
 
