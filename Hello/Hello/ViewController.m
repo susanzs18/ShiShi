@@ -20,7 +20,6 @@
 
     NSLog(@"lala11111222");
     
-<<<<<<< HEAD
     NSLog(@"66666666");
     
     NSLog(@"bbbbbbb");
@@ -29,10 +28,11 @@
 
     NSLog(@"ccccc");
 
-=======
     NSLog(@"66");
->>>>>>> e590b72f63999e970df8a473b651a69d92866876
+
     NSLog(@"cccccccccc");
+    
+    NSLog(@"宝宝又来了");
 
 
 }
